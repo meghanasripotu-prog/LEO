@@ -1,0 +1,5 @@
+{
+  "name": "COVERCOMPOSER",
+  "description": "AI-Powered Instrumental Music Generator using Markov Chains and MIDI synthesis.",
+  "requestFramePermissions": []
+}
